@@ -1,0 +1,1 @@
+Die endgültige Version ist im Package "aufgabe6" anzufinden.
